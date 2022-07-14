@@ -1,0 +1,3 @@
+[submodule "cairo-contracts"]
+	url = https://github.com/aspectco/cairo-contracts.git
+	path = libs/cairo-contracts
